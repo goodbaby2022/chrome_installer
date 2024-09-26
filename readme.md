@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/chrome_installer/releases>
 
 最后检测更新时间
-2024-09-26 02:18:20 (UTC-4)
+2024-09-26 03:12:45 (UTC-4)
 
 ## 目录
 * [win stable x86](https://github.com/Bush2021/chrome_installer?tab=readme-ov-file#win-stable-x86)
@@ -73,16 +73,16 @@
 **下载链接**：[https://dl.google.com/release2/chrome/acqux2f4zttltvwiy6swnk6e2yqq_131.0.6724.0/131.0.6724.0_chrome_installer.exe](https://dl.google.com/release2/chrome/acqux2f4zttltvwiy6swnk6e2yqq_131.0.6724.0/131.0.6724.0_chrome_installer.exe)  
 
 ## win canary x86
-**最新版本**：131.0.6739.1  
-**文件大小**：116.18 MB  
-**校验值（Sha256）**：b7bbac554f2faa4c0315aa284dcb230ef66e0c9fb54c68aaf5b55d0355d32cc1  
-**下载链接**：[https://dl.google.com/release2/chrome/adfbs7gkxu2ieqkjr4nml5wkujaa_131.0.6739.1/131.0.6739.1_chrome_installer.exe](https://dl.google.com/release2/chrome/adfbs7gkxu2ieqkjr4nml5wkujaa_131.0.6739.1/131.0.6739.1_chrome_installer.exe)  
+**最新版本**：131.0.6740.0  
+**文件大小**：98.92 MB  
+**校验值（Sha256）**：61829925251ccc113959ae48daffb0d8d647ea811613ab5372e904ecdb70d59e  
+**下载链接**：[https://dl.google.com/release2/chrome/acwrmou6lyhl7vzqclnh54vl53ha_131.0.6740.0/131.0.6740.0_chrome_installer.exe](https://dl.google.com/release2/chrome/acwrmou6lyhl7vzqclnh54vl53ha_131.0.6740.0/131.0.6740.0_chrome_installer.exe)  
 
 ## win canary x64
-**最新版本**：131.0.6739.0  
-**文件大小**：110.18 MB  
-**校验值（Sha256）**：f1b260df41f761c7b0803652a3b582922456e71733c2ada4683e951224c629ac  
-**下载链接**：[https://dl.google.com/release2/chrome/ad4d2qdwsgupbljroj35ozl67oba_131.0.6739.0/131.0.6739.0_chrome_installer.exe](https://dl.google.com/release2/chrome/ad4d2qdwsgupbljroj35ozl67oba_131.0.6739.0/131.0.6739.0_chrome_installer.exe)  
+**最新版本**：131.0.6740.0  
+**文件大小**：110.31 MB  
+**校验值（Sha256）**：2a56b4d502df073928a507b8271a64b8743e8c458e092d70185917156be4ee7e  
+**下载链接**：[https://dl.google.com/release2/chrome/aczpyj3vv5ugsigs5vgly6hdfjzq_131.0.6740.0/131.0.6740.0_chrome_installer.exe](https://dl.google.com/release2/chrome/aczpyj3vv5ugsigs5vgly6hdfjzq_131.0.6740.0/131.0.6740.0_chrome_installer.exe)  
 
 ## win canary arm64
 **最新版本**：131.0.6739.0  
