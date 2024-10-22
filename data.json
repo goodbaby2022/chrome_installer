@@ -154,17 +154,17 @@
         ]
     },
     "win_canary_arm64": {
-        "version": "132.0.6790.1",
-        "size": 152467824,
-        "sha1": "9205f670c31e5d7ccd1963af4dfeac0d4196795e",
-        "sha256": "b134df13e2d82a196b5b963055a2a4a42a243b38bdcc12c41a14ce8469708ebe",
+        "version": "132.0.6791.0",
+        "size": 122094448,
+        "sha1": "8ab9a9ef8a7a41564d1c5abdf725d62ab3d8aa73",
+        "sha256": "770b4ae51eed1c97c9f181ec04931f83080eb443980824b1a8f565f64bbffb9e",
         "urls": [
-            "http://edgedl.me.gvt1.com/edgedl/release2/chrome/d34ekiuow7txuregb34qnohz5i_132.0.6790.1/132.0.6790.1_chrome_installer.exe",
-            "https://edgedl.me.gvt1.com/edgedl/release2/chrome/d34ekiuow7txuregb34qnohz5i_132.0.6790.1/132.0.6790.1_chrome_installer.exe",
-            "http://dl.google.com/release2/chrome/d34ekiuow7txuregb34qnohz5i_132.0.6790.1/132.0.6790.1_chrome_installer.exe",
-            "https://dl.google.com/release2/chrome/d34ekiuow7txuregb34qnohz5i_132.0.6790.1/132.0.6790.1_chrome_installer.exe",
-            "http://www.google.com/dl/release2/chrome/d34ekiuow7txuregb34qnohz5i_132.0.6790.1/132.0.6790.1_chrome_installer.exe",
-            "https://www.google.com/dl/release2/chrome/d34ekiuow7txuregb34qnohz5i_132.0.6790.1/132.0.6790.1_chrome_installer.exe"
+            "http://edgedl.me.gvt1.com/edgedl/release2/chrome/p7kawyascg4xfkepzpgirhahvi_132.0.6791.0/132.0.6791.0_chrome_installer.exe",
+            "https://edgedl.me.gvt1.com/edgedl/release2/chrome/p7kawyascg4xfkepzpgirhahvi_132.0.6791.0/132.0.6791.0_chrome_installer.exe",
+            "http://dl.google.com/release2/chrome/p7kawyascg4xfkepzpgirhahvi_132.0.6791.0/132.0.6791.0_chrome_installer.exe",
+            "https://dl.google.com/release2/chrome/p7kawyascg4xfkepzpgirhahvi_132.0.6791.0/132.0.6791.0_chrome_installer.exe",
+            "http://www.google.com/dl/release2/chrome/p7kawyascg4xfkepzpgirhahvi_132.0.6791.0/132.0.6791.0_chrome_installer.exe",
+            "https://www.google.com/dl/release2/chrome/p7kawyascg4xfkepzpgirhahvi_132.0.6791.0/132.0.6791.0_chrome_installer.exe"
         ]
     }
 }
