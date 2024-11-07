@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/chrome_installer/releases>
 
 最后检测更新时间
-2024-11-07 15:09:49 (UTC-4)
+2024-11-07 16:13:33 (UTC-4)
 
 ## 目录
 * [win stable x86](https://github.com/Bush2021/chrome_installer?tab=readme-ov-file#win-stable-x86)
@@ -79,14 +79,14 @@
 **下载链接**：[https://dl.google.com/release2/chrome/accsxkn3pso4vicgelh3hifi3ywq_132.0.6824.0/132.0.6824.0_chrome_installer.exe](https://dl.google.com/release2/chrome/accsxkn3pso4vicgelh3hifi3ywq_132.0.6824.0/132.0.6824.0_chrome_installer.exe)  
 
 ## win canary x64
-**最新版本**：132.0.6824.0  
-**文件大小**：111.2 MB  
-**校验值（Sha256）**：60f460cd0dde55aa0d76a3e334b26f10781e59a97572511d95a9dc2add221d6f  
-**下载链接**：[https://dl.google.com/release2/chrome/ad6hwqfuzsw5kfmlrwsf4us5ia4a_132.0.6824.0/132.0.6824.0_chrome_installer.exe](https://dl.google.com/release2/chrome/ad6hwqfuzsw5kfmlrwsf4us5ia4a_132.0.6824.0/132.0.6824.0_chrome_installer.exe)  
+**最新版本**：132.0.6825.0  
+**文件大小**：111.13 MB  
+**校验值（Sha256）**：5733cb5cc3c5945ca855c51d08b95740e1071d4a763b7ffdf117155d67685f1e  
+**下载链接**：[https://dl.google.com/release2/chrome/adm5o4nhjvjobfzjf76utiwyydja_132.0.6825.0/132.0.6825.0_chrome_installer.exe](https://dl.google.com/release2/chrome/adm5o4nhjvjobfzjf76utiwyydja_132.0.6825.0/132.0.6825.0_chrome_installer.exe)  
 
 ## win canary arm64
-**最新版本**：132.0.6824.1  
-**文件大小**：145.8 MB  
-**校验值（Sha256）**：a10cfdde4402254ee9fcc693fbdc34affa7228bd86996b47589464b6b119c07d  
-**下载链接**：[https://dl.google.com/release2/chrome/ackd4qqdc4f225nak4mqqeufh2oa_132.0.6824.1/132.0.6824.1_chrome_installer.exe](https://dl.google.com/release2/chrome/ackd4qqdc4f225nak4mqqeufh2oa_132.0.6824.1/132.0.6824.1_chrome_installer.exe)  
+**最新版本**：132.0.6825.0  
+**文件大小**：117 MB  
+**校验值（Sha256）**：31e4f9efb9b2612984eee1dd94cbb43a3a4f9068f2efba96f5bd4212ae90a68a  
+**下载链接**：[https://dl.google.com/release2/chrome/jnj6udy6nfdnqirsk4wbp5k4gy_132.0.6825.0/132.0.6825.0_chrome_installer.exe](https://dl.google.com/release2/chrome/jnj6udy6nfdnqirsk4wbp5k4gy_132.0.6825.0/132.0.6825.0_chrome_installer.exe)  
 
