@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/chrome_installer/releases>
 
 最后检测更新时间
-2024-11-24 16:13:24 (UTC-4)
+2024-11-24 17:11:31 (UTC-4)
 
 ## 目录
 * [win stable x86](https://github.com/Bush2021/chrome_installer?tab=readme-ov-file#win-stable-x86)
@@ -79,14 +79,14 @@
 **下载链接**：[https://dl.google.com/release2/chrome/ad7bjjrjz7ggwsbnshx2z4q7swya_133.0.6856.1/133.0.6856.1_chrome_installer.exe](https://dl.google.com/release2/chrome/ad7bjjrjz7ggwsbnshx2z4q7swya_133.0.6856.1/133.0.6856.1_chrome_installer.exe)  
 
 ## win canary x64
-**最新版本**：133.0.6856.0  
-**文件大小**：111.58 MB  
-**校验值（Sha256）**：92a7806a2f5f21c57ad39b45ccc2970e658a13f818eeb6a0eb5f188354d6a5d5  
-**下载链接**：[https://dl.google.com/release2/chrome/fg2sntpdufmregoaoovl4duq7q_133.0.6856.0/133.0.6856.0_chrome_installer.exe](https://dl.google.com/release2/chrome/fg2sntpdufmregoaoovl4duq7q_133.0.6856.0/133.0.6856.0_chrome_installer.exe)  
+**最新版本**：133.0.6857.0  
+**文件大小**：111.51 MB  
+**校验值（Sha256）**：1b560c609a5e5e4774697a49b2f83312e2e2e01dffd070a8bf0cc9fd1352b870  
+**下载链接**：[https://dl.google.com/release2/chrome/aczpdntlekhookdjyb5du2a5hexa_133.0.6857.0/133.0.6857.0_chrome_installer.exe](https://dl.google.com/release2/chrome/aczpdntlekhookdjyb5du2a5hexa_133.0.6857.0/133.0.6857.0_chrome_installer.exe)  
 
 ## win canary arm64
-**最新版本**：133.0.6856.0  
-**文件大小**：117.44 MB  
-**校验值（Sha256）**：98ac535a81382b000424c95dad31531db43aeee57d487aeb7f0bfadafdf22497  
-**下载链接**：[https://dl.google.com/release2/chrome/adw46xtjyfwsy5p5laxwwabmtdmq_133.0.6856.0/133.0.6856.0_chrome_installer.exe](https://dl.google.com/release2/chrome/adw46xtjyfwsy5p5laxwwabmtdmq_133.0.6856.0/133.0.6856.0_chrome_installer.exe)  
+**最新版本**：133.0.6857.0  
+**文件大小**：117.46 MB  
+**校验值（Sha256）**：5789b20eb62870093256ff8d6c65776bb919a4fc19ab81cf2b71279877aeb644  
+**下载链接**：[https://dl.google.com/release2/chrome/acqt7vgqpcnqs3hruv3pl5yhjqlq_133.0.6857.0/133.0.6857.0_chrome_installer.exe](https://dl.google.com/release2/chrome/acqt7vgqpcnqs3hruv3pl5yhjqlq_133.0.6857.0/133.0.6857.0_chrome_installer.exe)  
 
