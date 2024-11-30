@@ -154,17 +154,17 @@
         ]
     },
     "win_canary_arm64": {
-        "version": "133.0.6868.1",
-        "size": 156816240,
-        "sha1": "b21a30298d92e7f39a20139e09fa77b44057e390",
-        "sha256": "47400b7d9407649770e140df03a61c7bc3f17c9dfe5546008a300424f2d3b305",
+        "version": "133.0.6869.0",
+        "size": 123306864,
+        "sha1": "f502a98c7454fefe1e7513363f254dc8b523f97c",
+        "sha256": "f5e499bbe987ee84549a1dce192313f5f50530b1c817a798f08ecb260b4424c2",
         "urls": [
-            "http://edgedl.me.gvt1.com/edgedl/release2/chrome/ibp3xlh6lmb2pkav43t2rlq24a_133.0.6868.1/133.0.6868.1_chrome_installer.exe",
-            "https://edgedl.me.gvt1.com/edgedl/release2/chrome/ibp3xlh6lmb2pkav43t2rlq24a_133.0.6868.1/133.0.6868.1_chrome_installer.exe",
-            "http://dl.google.com/release2/chrome/ibp3xlh6lmb2pkav43t2rlq24a_133.0.6868.1/133.0.6868.1_chrome_installer.exe",
-            "https://dl.google.com/release2/chrome/ibp3xlh6lmb2pkav43t2rlq24a_133.0.6868.1/133.0.6868.1_chrome_installer.exe",
-            "http://www.google.com/dl/release2/chrome/ibp3xlh6lmb2pkav43t2rlq24a_133.0.6868.1/133.0.6868.1_chrome_installer.exe",
-            "https://www.google.com/dl/release2/chrome/ibp3xlh6lmb2pkav43t2rlq24a_133.0.6868.1/133.0.6868.1_chrome_installer.exe"
+            "http://edgedl.me.gvt1.com/edgedl/release2/chrome/hmy2ijzco2fmfe5w7kugjadyba_133.0.6869.0/133.0.6869.0_chrome_installer.exe",
+            "https://edgedl.me.gvt1.com/edgedl/release2/chrome/hmy2ijzco2fmfe5w7kugjadyba_133.0.6869.0/133.0.6869.0_chrome_installer.exe",
+            "http://dl.google.com/release2/chrome/hmy2ijzco2fmfe5w7kugjadyba_133.0.6869.0/133.0.6869.0_chrome_installer.exe",
+            "https://dl.google.com/release2/chrome/hmy2ijzco2fmfe5w7kugjadyba_133.0.6869.0/133.0.6869.0_chrome_installer.exe",
+            "http://www.google.com/dl/release2/chrome/hmy2ijzco2fmfe5w7kugjadyba_133.0.6869.0/133.0.6869.0_chrome_installer.exe",
+            "https://www.google.com/dl/release2/chrome/hmy2ijzco2fmfe5w7kugjadyba_133.0.6869.0/133.0.6869.0_chrome_installer.exe"
         ]
     }
 }
