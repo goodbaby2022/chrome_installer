@@ -154,17 +154,17 @@
         ]
     },
     "win_canary_arm64": {
-        "version": "133.0.6877.0",
-        "size": 125016944,
-        "sha1": "e69dcf89397256ea0ccf150d88a3e826e2916a5b",
-        "sha256": "28afac341067b848fe9e34c62d1cded40a0f9b1f97dbe83c5f338866f1c0b0d8",
+        "version": "133.0.6878.0",
+        "size": 125163376,
+        "sha1": "afc14253b1d8f88b3f7a1cf28c7b526b77c457c9",
+        "sha256": "5d1e96d13453c3cd20f056b0753c1005545b5baea10171918d2c1db28b6df03b",
         "urls": [
-            "http://edgedl.me.gvt1.com/edgedl/release2/chrome/acscyyxxzarmk73qpqbvwjswpwza_133.0.6877.0/133.0.6877.0_chrome_installer.exe",
-            "https://edgedl.me.gvt1.com/edgedl/release2/chrome/acscyyxxzarmk73qpqbvwjswpwza_133.0.6877.0/133.0.6877.0_chrome_installer.exe",
-            "http://dl.google.com/release2/chrome/acscyyxxzarmk73qpqbvwjswpwza_133.0.6877.0/133.0.6877.0_chrome_installer.exe",
-            "https://dl.google.com/release2/chrome/acscyyxxzarmk73qpqbvwjswpwza_133.0.6877.0/133.0.6877.0_chrome_installer.exe",
-            "http://www.google.com/dl/release2/chrome/acscyyxxzarmk73qpqbvwjswpwza_133.0.6877.0/133.0.6877.0_chrome_installer.exe",
-            "https://www.google.com/dl/release2/chrome/acscyyxxzarmk73qpqbvwjswpwza_133.0.6877.0/133.0.6877.0_chrome_installer.exe"
+            "http://edgedl.me.gvt1.com/edgedl/release2/chrome/la7a6nndpciate757dmlm3yxpm_133.0.6878.0/133.0.6878.0_chrome_installer.exe",
+            "https://edgedl.me.gvt1.com/edgedl/release2/chrome/la7a6nndpciate757dmlm3yxpm_133.0.6878.0/133.0.6878.0_chrome_installer.exe",
+            "http://dl.google.com/release2/chrome/la7a6nndpciate757dmlm3yxpm_133.0.6878.0/133.0.6878.0_chrome_installer.exe",
+            "https://dl.google.com/release2/chrome/la7a6nndpciate757dmlm3yxpm_133.0.6878.0/133.0.6878.0_chrome_installer.exe",
+            "http://www.google.com/dl/release2/chrome/la7a6nndpciate757dmlm3yxpm_133.0.6878.0/133.0.6878.0_chrome_installer.exe",
+            "https://www.google.com/dl/release2/chrome/la7a6nndpciate757dmlm3yxpm_133.0.6878.0/133.0.6878.0_chrome_installer.exe"
         ]
     }
 }
