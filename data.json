@@ -154,17 +154,17 @@
         ]
     },
     "win_canary_arm64": {
-        "version": "133.0.6910.0",
-        "size": 124977520,
-        "sha1": "1bea0ea3a83000db91910dd7385d95dce87f675d",
-        "sha256": "c77672ba7d0acfff9055afb72ea34dec976e22eb0d554c9371776bb3b1a5f5b3",
+        "version": "133.0.6911.0",
+        "size": 124935024,
+        "sha1": "87fbb0585bb38de4d157bf72125f5ae5764e2ce9",
+        "sha256": "95b2f0a22d391330464a2f7888c71ad17b5c090e87962899a414b91111a1dfa3",
         "urls": [
-            "http://edgedl.me.gvt1.com/edgedl/release2/chrome/c25ijnkas7kcz3bj7aizxgwce4_133.0.6910.0/133.0.6910.0_chrome_installer.exe",
-            "https://edgedl.me.gvt1.com/edgedl/release2/chrome/c25ijnkas7kcz3bj7aizxgwce4_133.0.6910.0/133.0.6910.0_chrome_installer.exe",
-            "http://dl.google.com/release2/chrome/c25ijnkas7kcz3bj7aizxgwce4_133.0.6910.0/133.0.6910.0_chrome_installer.exe",
-            "https://dl.google.com/release2/chrome/c25ijnkas7kcz3bj7aizxgwce4_133.0.6910.0/133.0.6910.0_chrome_installer.exe",
-            "http://www.google.com/dl/release2/chrome/c25ijnkas7kcz3bj7aizxgwce4_133.0.6910.0/133.0.6910.0_chrome_installer.exe",
-            "https://www.google.com/dl/release2/chrome/c25ijnkas7kcz3bj7aizxgwce4_133.0.6910.0/133.0.6910.0_chrome_installer.exe"
+            "http://edgedl.me.gvt1.com/edgedl/release2/chrome/dtdt5qmgb7il42mz5zehbmuja4_133.0.6911.0/133.0.6911.0_chrome_installer.exe",
+            "https://edgedl.me.gvt1.com/edgedl/release2/chrome/dtdt5qmgb7il42mz5zehbmuja4_133.0.6911.0/133.0.6911.0_chrome_installer.exe",
+            "http://dl.google.com/release2/chrome/dtdt5qmgb7il42mz5zehbmuja4_133.0.6911.0/133.0.6911.0_chrome_installer.exe",
+            "https://dl.google.com/release2/chrome/dtdt5qmgb7il42mz5zehbmuja4_133.0.6911.0/133.0.6911.0_chrome_installer.exe",
+            "http://www.google.com/dl/release2/chrome/dtdt5qmgb7il42mz5zehbmuja4_133.0.6911.0/133.0.6911.0_chrome_installer.exe",
+            "https://www.google.com/dl/release2/chrome/dtdt5qmgb7il42mz5zehbmuja4_133.0.6911.0/133.0.6911.0_chrome_installer.exe"
         ]
     }
 }
