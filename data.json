@@ -154,17 +154,17 @@
         ]
     },
     "win_canary_arm64": {
-        "version": "133.0.6932.0",
-        "size": 124815728,
-        "sha1": "5eb00f7df2c30b8f9b165e6ce6db75c3ee5f9e4a",
-        "sha256": "071543656afdaf7888ddd665579a3841a0366beb64724c7647c6d64d34b27824",
+        "version": "133.0.6932.1",
+        "size": 156706160,
+        "sha1": "a53c63e5aa81b94876fe5fbd7f68b0b088317765",
+        "sha256": "b76ca8302a3e25739fc929493ce4ed1ede5d358e91eabb57714d8c3d02084408",
         "urls": [
-            "http://edgedl.me.gvt1.com/edgedl/release2/chrome/kmi5jf3nwriae7mvsfz67fixay_133.0.6932.0/133.0.6932.0_chrome_installer.exe",
-            "https://edgedl.me.gvt1.com/edgedl/release2/chrome/kmi5jf3nwriae7mvsfz67fixay_133.0.6932.0/133.0.6932.0_chrome_installer.exe",
-            "http://dl.google.com/release2/chrome/kmi5jf3nwriae7mvsfz67fixay_133.0.6932.0/133.0.6932.0_chrome_installer.exe",
-            "https://dl.google.com/release2/chrome/kmi5jf3nwriae7mvsfz67fixay_133.0.6932.0/133.0.6932.0_chrome_installer.exe",
-            "http://www.google.com/dl/release2/chrome/kmi5jf3nwriae7mvsfz67fixay_133.0.6932.0/133.0.6932.0_chrome_installer.exe",
-            "https://www.google.com/dl/release2/chrome/kmi5jf3nwriae7mvsfz67fixay_133.0.6932.0/133.0.6932.0_chrome_installer.exe"
+            "http://edgedl.me.gvt1.com/edgedl/release2/chrome/mwa666tsguq73e7xgqxee44ypu_133.0.6932.1/133.0.6932.1_chrome_installer.exe",
+            "https://edgedl.me.gvt1.com/edgedl/release2/chrome/mwa666tsguq73e7xgqxee44ypu_133.0.6932.1/133.0.6932.1_chrome_installer.exe",
+            "http://dl.google.com/release2/chrome/mwa666tsguq73e7xgqxee44ypu_133.0.6932.1/133.0.6932.1_chrome_installer.exe",
+            "https://dl.google.com/release2/chrome/mwa666tsguq73e7xgqxee44ypu_133.0.6932.1/133.0.6932.1_chrome_installer.exe",
+            "http://www.google.com/dl/release2/chrome/mwa666tsguq73e7xgqxee44ypu_133.0.6932.1/133.0.6932.1_chrome_installer.exe",
+            "https://www.google.com/dl/release2/chrome/mwa666tsguq73e7xgqxee44ypu_133.0.6932.1/133.0.6932.1_chrome_installer.exe"
         ]
     }
 }
