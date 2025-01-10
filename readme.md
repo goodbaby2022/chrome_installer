@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/chrome_installer/releases>
 
 最后检测更新时间
-2025-01-10 05:13:59 (UTC-4)
+2025-01-10 06:14:04 (UTC-4)
 
 ## 目录
 * [win stable x86](https://github.com/Bush2021/chrome_installer?tab=readme-ov-file#win-stable-x86)
@@ -73,20 +73,20 @@
 **下载链接**：[https://dl.google.com/release2/chrome/pbkoir7hthv422oxequxvp2wya_133.0.6943.6/133.0.6943.6_chrome_installer.exe](https://dl.google.com/release2/chrome/pbkoir7hthv422oxequxvp2wya_133.0.6943.6/133.0.6943.6_chrome_installer.exe)  
 
 ## win canary x86
-**最新版本**：134.0.6947.1  
-**文件大小**：119.34 MB  
-**校验值（Sha256）**：7e26df751cb23d7e5d6332340c796ac5410b36334af7df23bf562bee00220917  
-**下载链接**：[https://dl.google.com/release2/chrome/acbw5me2w5be6btbbohw2k2q3roa_134.0.6947.1/134.0.6947.1_chrome_installer.exe](https://dl.google.com/release2/chrome/acbw5me2w5be6btbbohw2k2q3roa_134.0.6947.1/134.0.6947.1_chrome_installer.exe)  
+**最新版本**：134.0.6948.0  
+**文件大小**：101.78 MB  
+**校验值（Sha256）**：c62f1b3028a694554c85e97daf513e48f8d4902c575f7844aaf538228b45ed43  
+**下载链接**：[https://dl.google.com/release2/chrome/adpptgjma2znoju4zldsvxb3uqtq_134.0.6948.0/134.0.6948.0_chrome_installer.exe](https://dl.google.com/release2/chrome/adpptgjma2znoju4zldsvxb3uqtq_134.0.6948.0/134.0.6948.0_chrome_installer.exe)  
 
 ## win canary x64
-**最新版本**：134.0.6947.1  
-**文件大小**：148.44 MB  
-**校验值（Sha256）**：66b0c6cdef17e17310ddc31b2d72215d3208ca3e8b340d88db10b0e117aad34c  
-**下载链接**：[https://dl.google.com/release2/chrome/ac3vexthdjmxbf5hqq35nsx4mx7q_134.0.6947.1/134.0.6947.1_chrome_installer.exe](https://dl.google.com/release2/chrome/ac3vexthdjmxbf5hqq35nsx4mx7q_134.0.6947.1/134.0.6947.1_chrome_installer.exe)  
+**最新版本**：134.0.6948.0  
+**文件大小**：113.6 MB  
+**校验值（Sha256）**：ffab1c72de24cbcc0b7b52a1cba24dc2fe03889b9d5bf0936fd49046e26157b7  
+**下载链接**：[https://dl.google.com/release2/chrome/mopw44fqqcpjajxcpvcqufjd7i_134.0.6948.0/134.0.6948.0_chrome_installer.exe](https://dl.google.com/release2/chrome/mopw44fqqcpjajxcpvcqufjd7i_134.0.6948.0/134.0.6948.0_chrome_installer.exe)  
 
 ## win canary arm64
-**最新版本**：134.0.6947.1  
-**文件大小**：149.62 MB  
-**校验值（Sha256）**：f81cc5b2776c2b37424a34f4095c40a63f30ca2e47d10073c04bc8beff48644c  
-**下载链接**：[https://dl.google.com/release2/chrome/adwyrgspy4vegoz3o7adzm7fnkfa_134.0.6947.1/134.0.6947.1_chrome_installer.exe](https://dl.google.com/release2/chrome/adwyrgspy4vegoz3o7adzm7fnkfa_134.0.6947.1/134.0.6947.1_chrome_installer.exe)  
+**最新版本**：134.0.6948.0  
+**文件大小**：119.32 MB  
+**校验值（Sha256）**：b90acfb532e1d923efaf41165409d766ad0129e3a51b363ee1b6e52dd730fb92  
+**下载链接**：[https://dl.google.com/release2/chrome/acdaqk7zzz37k4kcudoe4lm3e3ka_134.0.6948.0/134.0.6948.0_chrome_installer.exe](https://dl.google.com/release2/chrome/acdaqk7zzz37k4kcudoe4lm3e3ka_134.0.6948.0/134.0.6948.0_chrome_installer.exe)  
 
