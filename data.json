@@ -126,17 +126,17 @@
         ]
     },
     "win_canary_x86": {
-        "version": "134.0.6949.0",
-        "size": 106514288,
-        "sha1": "f987103b7125fa0e62eab54c9651bb707f1fd9c4",
-        "sha256": "f40d1467dc51faedcb80964460bfaebc5210338f6a09a02812fa0438328951b3",
+        "version": "134.0.6949.1",
+        "size": 125142384,
+        "sha1": "abe16b73bd27e30e8c94a3cf016a2e8c5773831a",
+        "sha256": "12ba77e828476d89f36dca22d32235f3d88d7d095b7cb19bac2a84c9f2077dd0",
         "urls": [
-            "http://edgedl.me.gvt1.com/edgedl/release2/chrome/byc6ibznvapavwlv37pc3fgzgi_134.0.6949.0/134.0.6949.0_chrome_installer.exe",
-            "https://edgedl.me.gvt1.com/edgedl/release2/chrome/byc6ibznvapavwlv37pc3fgzgi_134.0.6949.0/134.0.6949.0_chrome_installer.exe",
-            "http://dl.google.com/release2/chrome/byc6ibznvapavwlv37pc3fgzgi_134.0.6949.0/134.0.6949.0_chrome_installer.exe",
-            "https://dl.google.com/release2/chrome/byc6ibznvapavwlv37pc3fgzgi_134.0.6949.0/134.0.6949.0_chrome_installer.exe",
-            "http://www.google.com/dl/release2/chrome/byc6ibznvapavwlv37pc3fgzgi_134.0.6949.0/134.0.6949.0_chrome_installer.exe",
-            "https://www.google.com/dl/release2/chrome/byc6ibznvapavwlv37pc3fgzgi_134.0.6949.0/134.0.6949.0_chrome_installer.exe"
+            "http://edgedl.me.gvt1.com/edgedl/release2/chrome/f2ji4pdyhezo6q46ygmmo5occu_134.0.6949.1/134.0.6949.1_chrome_installer.exe",
+            "https://edgedl.me.gvt1.com/edgedl/release2/chrome/f2ji4pdyhezo6q46ygmmo5occu_134.0.6949.1/134.0.6949.1_chrome_installer.exe",
+            "http://dl.google.com/release2/chrome/f2ji4pdyhezo6q46ygmmo5occu_134.0.6949.1/134.0.6949.1_chrome_installer.exe",
+            "https://dl.google.com/release2/chrome/f2ji4pdyhezo6q46ygmmo5occu_134.0.6949.1/134.0.6949.1_chrome_installer.exe",
+            "http://www.google.com/dl/release2/chrome/f2ji4pdyhezo6q46ygmmo5occu_134.0.6949.1/134.0.6949.1_chrome_installer.exe",
+            "https://www.google.com/dl/release2/chrome/f2ji4pdyhezo6q46ygmmo5occu_134.0.6949.1/134.0.6949.1_chrome_installer.exe"
         ]
     },
     "win_canary_x64": {
