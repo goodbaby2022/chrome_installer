@@ -154,17 +154,17 @@
         ]
     },
     "win_canary_arm64": {
-        "version": "134.0.6989.0",
-        "size": 125923184,
-        "sha1": "c4e6ae13f57b5de59ed92d10a78e3fc15894fb3f",
-        "sha256": "f84482def186c45e00d1b17b140c2fad82d56759017bf444423a04ce234701f4",
+        "version": "134.0.6989.1",
+        "size": 157945200,
+        "sha1": "5bd63facc7e5ebf7379a176d3cad2a39da9b0cb4",
+        "sha256": "7214e1780c427fa78ccae5502412ffdd8d8afa57f6eaa4182b0592236ffcf801",
         "urls": [
-            "http://edgedl.me.gvt1.com/edgedl/release2/chrome/ghsxxzhdhqwlqfm4zmc2sl4ttu_134.0.6989.0/134.0.6989.0_chrome_installer.exe",
-            "https://edgedl.me.gvt1.com/edgedl/release2/chrome/ghsxxzhdhqwlqfm4zmc2sl4ttu_134.0.6989.0/134.0.6989.0_chrome_installer.exe",
-            "http://dl.google.com/release2/chrome/ghsxxzhdhqwlqfm4zmc2sl4ttu_134.0.6989.0/134.0.6989.0_chrome_installer.exe",
-            "https://dl.google.com/release2/chrome/ghsxxzhdhqwlqfm4zmc2sl4ttu_134.0.6989.0/134.0.6989.0_chrome_installer.exe",
-            "http://www.google.com/dl/release2/chrome/ghsxxzhdhqwlqfm4zmc2sl4ttu_134.0.6989.0/134.0.6989.0_chrome_installer.exe",
-            "https://www.google.com/dl/release2/chrome/ghsxxzhdhqwlqfm4zmc2sl4ttu_134.0.6989.0/134.0.6989.0_chrome_installer.exe"
+            "http://edgedl.me.gvt1.com/edgedl/release2/chrome/bnrtwypdpa23hjfdnq27ps2z4i_134.0.6989.1/134.0.6989.1_chrome_installer.exe",
+            "https://edgedl.me.gvt1.com/edgedl/release2/chrome/bnrtwypdpa23hjfdnq27ps2z4i_134.0.6989.1/134.0.6989.1_chrome_installer.exe",
+            "http://dl.google.com/release2/chrome/bnrtwypdpa23hjfdnq27ps2z4i_134.0.6989.1/134.0.6989.1_chrome_installer.exe",
+            "https://dl.google.com/release2/chrome/bnrtwypdpa23hjfdnq27ps2z4i_134.0.6989.1/134.0.6989.1_chrome_installer.exe",
+            "http://www.google.com/dl/release2/chrome/bnrtwypdpa23hjfdnq27ps2z4i_134.0.6989.1/134.0.6989.1_chrome_installer.exe",
+            "https://www.google.com/dl/release2/chrome/bnrtwypdpa23hjfdnq27ps2z4i_134.0.6989.1/134.0.6989.1_chrome_installer.exe"
         ]
     }
 }
