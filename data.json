@@ -154,17 +154,17 @@
         ]
     },
     "win_canary_arm64": {
-        "version": "134.0.6991.0",
-        "size": 125972336,
-        "sha1": "3e7f76e39d6b1f0b84b4cfc1f07099aa69526175",
-        "sha256": "3d0e35a523acd6c362b3f918dfef06e848b287cffacbab7651e6f9a11314c8de",
+        "version": "134.0.6991.1",
+        "size": 157637488,
+        "sha1": "33dbaf8361e497ddd4f805baa1b681b63f4338aa",
+        "sha256": "81ecd8dba5c29846f4627fa750886277b14c5c0633bea41f824ff925062bbf68",
         "urls": [
-            "http://edgedl.me.gvt1.com/edgedl/release2/chrome/e7kmxdi44eqzsj3tkj56ix5s_134.0.6991.0/134.0.6991.0_chrome_installer.exe",
-            "https://edgedl.me.gvt1.com/edgedl/release2/chrome/e7kmxdi44eqzsj3tkj56ix5s_134.0.6991.0/134.0.6991.0_chrome_installer.exe",
-            "http://dl.google.com/release2/chrome/e7kmxdi44eqzsj3tkj56ix5s_134.0.6991.0/134.0.6991.0_chrome_installer.exe",
-            "https://dl.google.com/release2/chrome/e7kmxdi44eqzsj3tkj56ix5s_134.0.6991.0/134.0.6991.0_chrome_installer.exe",
-            "http://www.google.com/dl/release2/chrome/e7kmxdi44eqzsj3tkj56ix5s_134.0.6991.0/134.0.6991.0_chrome_installer.exe",
-            "https://www.google.com/dl/release2/chrome/e7kmxdi44eqzsj3tkj56ix5s_134.0.6991.0/134.0.6991.0_chrome_installer.exe"
+            "http://edgedl.me.gvt1.com/edgedl/release2/chrome/ac7ni6gihhwj5alsodnthvngkf4q_134.0.6991.1/134.0.6991.1_chrome_installer.exe",
+            "https://edgedl.me.gvt1.com/edgedl/release2/chrome/ac7ni6gihhwj5alsodnthvngkf4q_134.0.6991.1/134.0.6991.1_chrome_installer.exe",
+            "http://dl.google.com/release2/chrome/ac7ni6gihhwj5alsodnthvngkf4q_134.0.6991.1/134.0.6991.1_chrome_installer.exe",
+            "https://dl.google.com/release2/chrome/ac7ni6gihhwj5alsodnthvngkf4q_134.0.6991.1/134.0.6991.1_chrome_installer.exe",
+            "http://www.google.com/dl/release2/chrome/ac7ni6gihhwj5alsodnthvngkf4q_134.0.6991.1/134.0.6991.1_chrome_installer.exe",
+            "https://www.google.com/dl/release2/chrome/ac7ni6gihhwj5alsodnthvngkf4q_134.0.6991.1/134.0.6991.1_chrome_installer.exe"
         ]
     }
 }
