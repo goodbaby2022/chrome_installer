@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/chrome_installer/releases>
 
 最后检测更新时间
-2025-05-24 05:13:28 (UTC-4)
+2025-05-24 06:13:38 (UTC-4)
 
 ## 目录
 * [win stable x86](https://github.com/Bush2021/chrome_installer?tab=readme-ov-file#win-stable-x86)
@@ -73,16 +73,16 @@
 **下载链接**：[https://dl.google.com/release2/chrome/ad7xqpxn4mdr2n6fnirjiuder5aa_138.0.7191.0/138.0.7191.0_chrome_installer.exe](https://dl.google.com/release2/chrome/ad7xqpxn4mdr2n6fnirjiuder5aa_138.0.7191.0/138.0.7191.0_chrome_installer.exe)  
 
 ## win canary x86
-**最新版本**：138.0.7197.1  
-**文件大小**：124.48 MB  
-**校验值（Sha256）**：e86074346dd5303d32e2232c574322f93d9aa7e917bd70756bc0bed741c68d79  
-**下载链接**：[https://dl.google.com/release2/chrome/dkj3rcmwx2ikbbnpmddf2gkwey_138.0.7197.1/138.0.7197.1_chrome_installer.exe](https://dl.google.com/release2/chrome/dkj3rcmwx2ikbbnpmddf2gkwey_138.0.7197.1/138.0.7197.1_chrome_installer.exe)  
+**最新版本**：138.0.7198.0  
+**文件大小**：105.23 MB  
+**校验值（Sha256）**：4669f56d2d02d02c36f1506457d4e82f0bf2485c169b8c643d4b18e16d1ee370  
+**下载链接**：[https://dl.google.com/release2/chrome/by3uup6abkeagbfxrw5ztbuu4i_138.0.7198.0/138.0.7198.0_chrome_installer.exe](https://dl.google.com/release2/chrome/by3uup6abkeagbfxrw5ztbuu4i_138.0.7198.0/138.0.7198.0_chrome_installer.exe)  
 
 ## win canary x64
-**最新版本**：138.0.7197.0  
+**最新版本**：138.0.7198.0  
 **文件大小**：117.37 MB  
-**校验值（Sha256）**：0c85dc1055579f500b0520b2c18d808a64473ff703e3cc352accf55ad204bd66  
-**下载链接**：[https://dl.google.com/release2/chrome/adtjjcb3gemrqdv77upl2nnsebdq_138.0.7197.0/138.0.7197.0_chrome_installer.exe](https://dl.google.com/release2/chrome/adtjjcb3gemrqdv77upl2nnsebdq_138.0.7197.0/138.0.7197.0_chrome_installer.exe)  
+**校验值（Sha256）**：4a6cd878f3c81d1c3db2281b853eb1138a2c8e59e45d4a216b8c5be5469de48a  
+**下载链接**：[https://dl.google.com/release2/chrome/pffkpgew6aayv52clfwgqjzdxa_138.0.7198.0/138.0.7198.0_chrome_installer.exe](https://dl.google.com/release2/chrome/pffkpgew6aayv52clfwgqjzdxa_138.0.7198.0/138.0.7198.0_chrome_installer.exe)  
 
 ## win canary arm64
 **最新版本**：138.0.7197.0  
