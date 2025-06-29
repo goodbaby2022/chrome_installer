@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/chrome_installer/releases>
 
 最后检测更新时间
-2025-06-29 15:11:03 (UTC-4)
+2025-06-29 16:15:35 (UTC-4)
 
 ## 目录
 * [win stable x86](https://github.com/Bush2021/chrome_installer?tab=readme-ov-file#win-stable-x86)
@@ -79,14 +79,14 @@
 **下载链接**：[https://dl.google.com/release2/chrome/j2c4pqvi4m5lbqwd4ldj4s5sxq_140.0.7267.0/140.0.7267.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/j2c4pqvi4m5lbqwd4ldj4s5sxq_140.0.7267.0/140.0.7267.0_chrome_installer_uncompressed.exe)  
 
 ## win canary x64
-**最新版本**：140.0.7267.0  
+**最新版本**：140.0.7268.0  
 **文件大小**：411.54 MB  
-**校验值（Sha256）**：4de0c85f946582bc116261842acfe2577a850819697e4f01bf2fc749669f8f03  
-**下载链接**：[https://dl.google.com/release2/chrome/hcca7vakipakepf2uehyij2p2i_140.0.7267.0/140.0.7267.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/hcca7vakipakepf2uehyij2p2i_140.0.7267.0/140.0.7267.0_chrome_installer_uncompressed.exe)  
+**校验值（Sha256）**：daf1e45c1be9e3edee9aea749bf031e05da73ff494d6cc64f17e08e6d807c1f5  
+**下载链接**：[https://dl.google.com/release2/chrome/nozz3kxcossr276oqo27v337yi_140.0.7268.0/140.0.7268.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/nozz3kxcossr276oqo27v337yi_140.0.7268.0/140.0.7268.0_chrome_installer_uncompressed.exe)  
 
 ## win canary arm64
-**最新版本**：140.0.7267.1  
-**文件大小**：562.71 MB  
-**校验值（Sha256）**：5f0c4e556d1f30e2bab8ceb1c4a3284f3a17bcc3d81393c8940666d24dc1dd7e  
-**下载链接**：[https://dl.google.com/release2/chrome/o7gfftmdobc3lzy3wvroqbojzu_140.0.7267.1/140.0.7267.1_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/o7gfftmdobc3lzy3wvroqbojzu_140.0.7267.1/140.0.7267.1_chrome_installer_uncompressed.exe)  
+**最新版本**：140.0.7268.0  
+**文件大小**：404.11 MB  
+**校验值（Sha256）**：e81cf64e48a991dcd4dcaeb2c548daffe0d2ccf54cf8486adbbc2a85aa21c1ea  
+**下载链接**：[https://dl.google.com/release2/chrome/f6fzzptfgcvuehksadciwvqkui_140.0.7268.0/140.0.7268.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/f6fzzptfgcvuehksadciwvqkui_140.0.7268.0/140.0.7268.0_chrome_installer_uncompressed.exe)  
 
