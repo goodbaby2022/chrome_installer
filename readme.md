@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/chrome_installer/releases>
 
 最后检测更新时间
-2025-08-07 18:16:07 (UTC-4)
+2025-08-07 19:16:02 (UTC-4)
 
 ## 目录
 * [win stable x86](https://github.com/Bush2021/chrome_installer?tab=readme-ov-file#win-stable-x86)
@@ -73,10 +73,10 @@
 **下载链接**：[https://dl.google.com/release2/chrome/jjvefgjsiz33z2apytda6eyilm_141.0.7340.0/141.0.7340.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/jjvefgjsiz33z2apytda6eyilm_141.0.7340.0/141.0.7340.0_chrome_installer_uncompressed.exe)  
 
 ## win canary x86
-**最新版本**：141.0.7343.0  
-**文件大小**：344.32 MB  
-**校验值（Sha256）**：3699a09ce35c8e722cf440b0a07d1173f0cbc1ae2667ec0a0bbe4d5d67f2653d  
-**下载链接**：[https://dl.google.com/release2/chrome/acwluuups3ddbvg3jdu5njr6yevq_141.0.7343.0/141.0.7343.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/acwluuups3ddbvg3jdu5njr6yevq_141.0.7343.0/141.0.7343.0_chrome_installer_uncompressed.exe)  
+**最新版本**：141.0.7343.1  
+**文件大小**：509.46 MB  
+**校验值（Sha256）**：852c60329c435d91767b66c816604166744ec096a2febaa3f597269b34ea9093  
+**下载链接**：[https://dl.google.com/release2/chrome/hik4owrhbrmkbx6xcjntbtibxe_141.0.7343.1/141.0.7343.1_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/hik4owrhbrmkbx6xcjntbtibxe_141.0.7343.1/141.0.7343.1_chrome_installer_uncompressed.exe)  
 
 ## win canary x64
 **最新版本**：141.0.7343.0  
