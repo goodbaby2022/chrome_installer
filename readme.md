@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/chrome_installer/releases>
 
 最后检测更新时间
-2025-11-21 18:14:52 (UTC-4)
+2025-11-21 19:13:36 (UTC-4)
 
 ## 目录
 * [win stable x86](https://github.com/Bush2021/chrome_installer?tab=readme-ov-file#win-stable-x86)
@@ -73,10 +73,10 @@
 **下载链接**：[https://dl.google.com/release2/chrome/ad4qipjirfmiuknpuaa4pe6mwx7q_144.0.7534.2/144.0.7534.2_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/ad4qipjirfmiuknpuaa4pe6mwx7q_144.0.7534.2/144.0.7534.2_chrome_installer_uncompressed.exe)  
 
 ## win canary x86
-**最新版本**：144.0.7537.1  
-**文件大小**：526.33 MB  
-**校验值（Sha256）**：0cdd24c58408014560c2bd4a3ebe039204b952b07b3197732c22e4d907e12aaf  
-**下载链接**：[https://dl.google.com/release2/chrome/adakh4eluxiw3cbeb2qxmcbsy4na_144.0.7537.1/144.0.7537.1_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/adakh4eluxiw3cbeb2qxmcbsy4na_144.0.7537.1/144.0.7537.1_chrome_installer_uncompressed.exe)  
+**最新版本**：144.0.7538.0  
+**文件大小**：349.93 MB  
+**校验值（Sha256）**：a429b2b90430d62da874f404851a5d421bd1729b3820d69bf327bd708a9544d7  
+**下载链接**：[https://dl.google.com/release2/chrome/ad4jaojjcqewqyfmpiyvu6ozfdma_144.0.7538.0/144.0.7538.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/ad4jaojjcqewqyfmpiyvu6ozfdma_144.0.7538.0/144.0.7538.0_chrome_installer_uncompressed.exe)  
 
 ## win canary x64
 **最新版本**：144.0.7538.0  
@@ -85,8 +85,8 @@
 **下载链接**：[https://dl.google.com/release2/chrome/ac2gixecklagk4fla47n2nspmcdq_144.0.7538.0/144.0.7538.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/ac2gixecklagk4fla47n2nspmcdq_144.0.7538.0/144.0.7538.0_chrome_installer_uncompressed.exe)  
 
 ## win canary arm64
-**最新版本**：144.0.7537.1  
-**文件大小**：584.87 MB  
-**校验值（Sha256）**：bca43cf3f1a9449fe5281fc2466b309020a4a22ceb7e7711ff69a98d36a0cc13  
-**下载链接**：[https://dl.google.com/release2/chrome/oqu5awjin4wu6yfa5gdjcvleti_144.0.7537.1/144.0.7537.1_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/oqu5awjin4wu6yfa5gdjcvleti_144.0.7537.1/144.0.7537.1_chrome_installer_uncompressed.exe)  
+**最新版本**：144.0.7538.0  
+**文件大小**：413.99 MB  
+**校验值（Sha256）**：1c2c288ba74897f4eab0fe58dc7ecdb4d4d52eb3f47db94058163bd3486aa0e2  
+**下载链接**：[https://dl.google.com/release2/chrome/ad4rqu7tlr7oy6lmtuslpvs2frua_144.0.7538.0/144.0.7538.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/ad4rqu7tlr7oy6lmtuslpvs2frua_144.0.7538.0/144.0.7538.0_chrome_installer_uncompressed.exe)  
 
