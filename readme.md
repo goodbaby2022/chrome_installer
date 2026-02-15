@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/chrome_installer/releases>
 
 最后检测更新时间
-2026-02-15 07:18:01 (UTC-4)
+2026-02-15 08:38:54 (UTC-4)
 
 ## 目录
 * [win stable x86](https://github.com/Bush2021/chrome_installer?tab=readme-ov-file#win-stable-x86)
@@ -73,10 +73,10 @@
 **下载链接**：[https://dl.google.com/release2/chrome/acpxvcyvsas6dxor33awhleg7x3q_146.0.7670.2/146.0.7670.2_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/acpxvcyvsas6dxor33awhleg7x3q_146.0.7670.2/146.0.7670.2_chrome_installer_uncompressed.exe)  
 
 ## win canary x86
-**最新版本**：147.0.7688.1  
-**文件大小**：550.54 MB  
-**校验值（Sha256）**：02d2117c833426c50969bc917075ef34577c20ef0cc16386ba0afd444167ca7c  
-**下载链接**：[https://dl.google.com/release2/chrome/acwixncurcklxfnyuyhar44chmeq_147.0.7688.1/147.0.7688.1_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/acwixncurcklxfnyuyhar44chmeq_147.0.7688.1/147.0.7688.1_chrome_installer_uncompressed.exe)  
+**最新版本**：147.0.7689.0  
+**文件大小**：367.81 MB  
+**校验值（Sha256）**：dabc90f1554d24695bfac4f3e8c64029a97b44021c23c66c967c2c39010c5781  
+**下载链接**：[https://dl.google.com/release2/chrome/adrarpkdbrnfjzsneeelatphudfq_147.0.7689.0/147.0.7689.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/adrarpkdbrnfjzsneeelatphudfq_147.0.7689.0/147.0.7689.0_chrome_installer_uncompressed.exe)  
 
 ## win canary x64
 **最新版本**：147.0.7689.0  
@@ -85,8 +85,8 @@
 **下载链接**：[https://dl.google.com/release2/chrome/adnmpvdnm2uiwb4zdxtjdfuu4h2a_147.0.7689.0/147.0.7689.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/adnmpvdnm2uiwb4zdxtjdfuu4h2a_147.0.7689.0/147.0.7689.0_chrome_installer_uncompressed.exe)  
 
 ## win canary arm64
-**最新版本**：147.0.7688.0  
-**文件大小**：431.39 MB  
-**校验值（Sha256）**：576d94234e86231c347e9d4eb3a5771fb7b693aa0ef38a03ab5ff57c9c84841c  
-**下载链接**：[https://dl.google.com/release2/chrome/acmze6xpmpxfm5vhf65iz77behya_147.0.7688.0/147.0.7688.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/acmze6xpmpxfm5vhf65iz77behya_147.0.7688.0/147.0.7688.0_chrome_installer_uncompressed.exe)  
+**最新版本**：147.0.7689.0  
+**文件大小**：432.11 MB  
+**校验值（Sha256）**：f70c1e080ccf70705179b69193876b75fe0f489587e665ef36cd5099cf308f60  
+**下载链接**：[https://dl.google.com/release2/chrome/p5urtuardbvnxzsjmqk44tk6bm_147.0.7689.0/147.0.7689.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/p5urtuardbvnxzsjmqk44tk6bm_147.0.7689.0/147.0.7689.0_chrome_installer_uncompressed.exe)  
 
