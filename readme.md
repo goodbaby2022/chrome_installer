@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/chrome_installer/releases>
 
 最后检测更新时间
-2026-05-15 09:54:01 (UTC-4)
+2026-05-15 12:00:27 (UTC-4)
 
 ## 目录
 * [win stable x86](https://github.com/Bush2021/chrome_installer?tab=readme-ov-file#win-stable-x86)
@@ -79,14 +79,14 @@
 **下载链接**：[https://dl.google.com/release2/chrome/add3bf2kifrzvn6cv7yff6l53jra_150.0.7840.2/150.0.7840.2_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/add3bf2kifrzvn6cv7yff6l53jra_150.0.7840.2/150.0.7840.2_chrome_installer_uncompressed.exe)  
 
 ## win canary x64
-**最新版本**：150.0.7841.1  
+**最新版本**：150.0.7841.2  
 **文件大小**：692.45 MB  
-**校验值（Sha256）**：6dc306cc7392751d6e026c12e08b460fc992b2a619d6b07db533dd6cfcdff0b0  
-**下载链接**：[https://dl.google.com/release2/chrome/i3cd5mltyzjpbd7mnmfexkytdy_150.0.7841.1/150.0.7841.1_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/i3cd5mltyzjpbd7mnmfexkytdy_150.0.7841.1/150.0.7841.1_chrome_installer_uncompressed.exe)  
+**校验值（Sha256）**：73a13f7dd1a97a5c35331658083b75ec51c73a8f9debf8907d8567c0ad6b5785  
+**下载链接**：[https://dl.google.com/release2/chrome/adni5tzppgtj5jhxvsos6vnt3sza_150.0.7841.2/150.0.7841.2_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/adni5tzppgtj5jhxvsos6vnt3sza_150.0.7841.2/150.0.7841.2_chrome_installer_uncompressed.exe)  
 
 ## win canary arm64
-**最新版本**：150.0.7841.0  
-**文件大小**：439.57 MB  
-**校验值（Sha256）**：77402574f29065a3f40155a4ae7c413c449142fa13cca60924b20e0102e3614d  
-**下载链接**：[https://dl.google.com/release2/chrome/ado4oesseg3u67gqkiuhx3wti3oa_150.0.7841.0/150.0.7841.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/ado4oesseg3u67gqkiuhx3wti3oa_150.0.7841.0/150.0.7841.0_chrome_installer_uncompressed.exe)  
+**最新版本**：150.0.7841.2  
+**文件大小**：623.35 MB  
+**校验值（Sha256）**：6b5d54e14a6f4455e1adb0a083437f0f1d0c2b3c8ff7939e8e7d8db6e38e0a49  
+**下载链接**：[https://dl.google.com/release2/chrome/it5pkdby2lz465kvbjh3y3gcpe_150.0.7841.2/150.0.7841.2_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/it5pkdby2lz465kvbjh3y3gcpe_150.0.7841.2/150.0.7841.2_chrome_installer_uncompressed.exe)  
 
