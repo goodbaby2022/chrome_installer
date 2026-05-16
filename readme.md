@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/chrome_installer/releases>
 
 最后检测更新时间
-2026-05-15 19:51:17 (UTC-4)
+2026-05-15 22:30:24 (UTC-4)
 
 ## 目录
 * [win stable x86](https://github.com/Bush2021/chrome_installer?tab=readme-ov-file#win-stable-x86)
@@ -85,8 +85,8 @@
 **下载链接**：[https://dl.google.com/release2/chrome/addcibblfbyhx7qjptxaunqfcqsa_150.0.7842.0/150.0.7842.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/addcibblfbyhx7qjptxaunqfcqsa_150.0.7842.0/150.0.7842.0_chrome_installer_uncompressed.exe)  
 
 ## win canary arm64
-**最新版本**：150.0.7841.3  
-**文件大小**：623.35 MB  
-**校验值（Sha256）**：c187581df66c0d15bbe707bb328a735041966cc013762564b575463594f3bebe  
-**下载链接**：[https://dl.google.com/release2/chrome/eo6nmygwgnrtb3raxebwpzjkwq_150.0.7841.3/150.0.7841.3_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/eo6nmygwgnrtb3raxebwpzjkwq_150.0.7841.3/150.0.7841.3_chrome_installer_uncompressed.exe)  
+**最新版本**：150.0.7842.0  
+**文件大小**：439.57 MB  
+**校验值（Sha256）**：ce38535a10c05882f54feedb7c29a0f1c70757931ea7a4e8ff95c5e86770bbb4  
+**下载链接**：[https://dl.google.com/release2/chrome/ipte2binl4oruypqxuhkqy7iee_150.0.7842.0/150.0.7842.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/ipte2binl4oruypqxuhkqy7iee_150.0.7842.0/150.0.7842.0_chrome_installer_uncompressed.exe)  
 
