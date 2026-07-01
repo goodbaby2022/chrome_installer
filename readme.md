@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/chrome_installer/releases>
 
 最后检测更新时间
-2026-06-30 20:02:17 (UTC-4)
+2026-07-01 01:17:54 (UTC-4)
 
 ## 目录
 * [win stable x86](https://github.com/Bush2021/chrome_installer?tab=readme-ov-file#win-stable-x86)
@@ -79,14 +79,14 @@
 **下载链接**：[https://dl.google.com/release2/chrome/ad3pl4qcxtsyhsoiv2w62eefjixq_151.0.7922.3/151.0.7922.3_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/ad3pl4qcxtsyhsoiv2w62eefjixq_151.0.7922.3/151.0.7922.3_chrome_installer_uncompressed.exe)  
 
 ## win canary x64
-**最新版本**：151.0.7922.3  
+**最新版本**：151.0.7922.5  
 **文件大小**：487.89 MB  
-**校验值（Sha256）**：fde490caf93775a6a359d78f9c47d96104afd35efe51392d140850d9f63359a4  
-**下载链接**：[https://dl.google.com/release2/chrome/acofigzi3pmhl3tqwgoebe7ico4a_151.0.7922.3/151.0.7922.3_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/acofigzi3pmhl3tqwgoebe7ico4a_151.0.7922.3/151.0.7922.3_chrome_installer_uncompressed.exe)  
+**校验值（Sha256）**：f7c80d376c1ffa1af7f31a02c9074c95e9d153fa8710a2d6a7257337859337d8  
+**下载链接**：[https://dl.google.com/release2/chrome/adtcprbp5akg3fzilzsjtkgy7eqq_151.0.7922.5/151.0.7922.5_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/adtcprbp5akg3fzilzsjtkgy7eqq_151.0.7922.5/151.0.7922.5_chrome_installer_uncompressed.exe)  
 
 ## win canary arm64
-**最新版本**：151.0.7922.3  
+**最新版本**：151.0.7922.4  
 **文件大小**：464.55 MB  
-**校验值（Sha256）**：172e522237b65603c68c6e5b61c23e9267c1e17ac73ebdcbea7c92e8b1ef75e1  
-**下载链接**：[https://dl.google.com/release2/chrome/jwowrc4sgqdf5rkszsqf2qepka_151.0.7922.3/151.0.7922.3_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/jwowrc4sgqdf5rkszsqf2qepka_151.0.7922.3/151.0.7922.3_chrome_installer_uncompressed.exe)  
+**校验值（Sha256）**：34ec9af569a84a6a914d3d991a367ab093d6be5fe908fab49b1896c165c6803c  
+**下载链接**：[https://dl.google.com/release2/chrome/fobswxgyuf3zm65z75vsds4esu_151.0.7922.4/151.0.7922.4_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/fobswxgyuf3zm65z75vsds4esu_151.0.7922.4/151.0.7922.4_chrome_installer_uncompressed.exe)  
 
