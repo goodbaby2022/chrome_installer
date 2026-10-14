@@ -2,7 +2,7 @@
 稳定版存档：<https://github.com/Bush2021/chrome_installer/releases>
 
 最后检测更新时间
-2026-10-14 14:15:09 (UTC-4)
+2026-10-14 18:00:03 (UTC-4)
 
 ## 目录
 * [win stable x86](https://github.com/Bush2021/chrome_installer?tab=readme-ov-file#win-stable-x86)
@@ -73,10 +73,10 @@
 **下载链接**：[https://dl.google.com/release2/chrome/adpqwoopd7s2gzfzc6k47gc5sk2a_157.0.8092.0/157.0.8092.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/adpqwoopd7s2gzfzc6k47gc5sk2a_157.0.8092.0/157.0.8092.0_chrome_installer_uncompressed.exe)  
 
 ## win canary x86
-**最新版本**：158.0.8104.1  
-**文件大小**：617.11 MB  
-**校验值（Sha256）**：446d5f99fef946fad8a0751bacdc909d90ebd7a07196d4098a785a3d6a9b2786  
-**下载链接**：[https://dl.google.com/release2/chrome/k3nh4wljwhtkxcluqvjsshhghi_158.0.8104.1/158.0.8104.1_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/k3nh4wljwhtkxcluqvjsshhghi_158.0.8104.1/158.0.8104.1_chrome_installer_uncompressed.exe)  
+**最新版本**：158.0.8105.0  
+**文件大小**：433.51 MB  
+**校验值（Sha256）**：c96385d4d61a939e19d2b637763ce867cb55fbeab0442305980abfc506173dcc  
+**下载链接**：[https://dl.google.com/release2/chrome/acqhoht2ih7cy2z54ksrpfikju5a_158.0.8105.0/158.0.8105.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/acqhoht2ih7cy2z54ksrpfikju5a_158.0.8105.0/158.0.8105.0_chrome_installer_uncompressed.exe)  
 
 ## win canary x64
 **最新版本**：158.0.8105.0  
@@ -85,8 +85,8 @@
 **下载链接**：[https://dl.google.com/release2/chrome/acfhmwjo5q5x4qgvz3yac24wunqq_158.0.8105.0/158.0.8105.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/acfhmwjo5q5x4qgvz3yac24wunqq_158.0.8105.0/158.0.8105.0_chrome_installer_uncompressed.exe)  
 
 ## win canary arm64
-**最新版本**：158.0.8104.0  
-**文件大小**：481.76 MB  
-**校验值（Sha256）**：f0d86853a1e21fd74d87aaadc5b47509183da0861ac2b48bab2795e1e3418326  
-**下载链接**：[https://dl.google.com/release2/chrome/os5itsrcu5vn2qa4yxtdw3nexm_158.0.8104.0/158.0.8104.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/os5itsrcu5vn2qa4yxtdw3nexm_158.0.8104.0/158.0.8104.0_chrome_installer_uncompressed.exe)  
+**最新版本**：158.0.8105.0  
+**文件大小**：481.48 MB  
+**校验值（Sha256）**：7eaf5eaa2b40d8ead4331bdd3495fe73c3b41bbb21aeee867cc2c883a2f03253  
+**下载链接**：[https://dl.google.com/release2/chrome/adtajxx522wd3qbhunbcmjiiqjzq_158.0.8105.0/158.0.8105.0_chrome_installer_uncompressed.exe](https://dl.google.com/release2/chrome/adtajxx522wd3qbhunbcmjiiqjzq_158.0.8105.0/158.0.8105.0_chrome_installer_uncompressed.exe)  
 
